@@ -3,111 +3,205 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>messagebox</title>
-  <link rel="icon" href="logo.svg" type="image/svg">
+  <title>messagebox - Movie Recommendations</title>
+  <link rel="icon" href="logo.svg" type="image/svg+xml">
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
+  <!-- Fixed Coffee Button -->
+  <a href="coffee.html" class="coffee-btn-fixed" title="Buy me a coffee">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M18 8h1a4 4 0 0 1 0 8h-1"></path>
+      <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path>
+      <line x1="6" y1="1" x2="6" y2="4"></line>
+      <line x1="10" y1="1" x2="10" y2="4"></line>
+      <line x1="14" y1="1" x2="14" y2="4"></line>
+    </svg>
+  </a>
 
-  <div class="hero-actions">
-    <div class="text-content">
-      <img src="logo.svg" alt="Messagebox logo" class="logo">
-      <h1 class="title">messagebox</h1>
-      <p class="subtitle">personal recommendation: <span class="accent">confirmed</span></p>
-    </div>
+  <main class="snap-container">
+    <!-- Section 1: Hero (White) -->
+    <section class="section hero-section">
+      <div class="hero-content">
+        <div class="text-content">
+          <img src="logo.svg" alt="Messagebox logo" class="logo">
+          <h1 class="title">messagebox</h1>
+          <p class="subtitle">personal recommendation: <span class="accent">confirmed</span></p>
+        </div>
 
-    <!-- File upload / drag & drop area -->
-    <div class="button-group file-upload" id="drop-area">
-      <span class="file-upload-text">click here or drag CSV file</span>
+        <!-- Value Proposition -->
+        <div class="value-prop">
+          <h2 class="headline">Get Movie Recommendations Instantly</h2>
+          <p class="description">Upload your watch history and receive personalized picks in seconds.</p>
+        </div>
+
+        <!-- Upload Button -->
+        <button class="upload-btn" id="fileUpload" aria-label="Upload CSV file" tabindex="0">
+          <svg class="upload-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+            <polyline points="17 8 12 3 7 8"></polyline>
+            <line x1="12" y1="3" x2="12" y2="15"></line>
+          </svg>
+          <span>Upload CSV File</span>
+        </button>
+
+        <!-- Status Text -->
+        <p class="status-text" id="statusText"></p>
+
+        <!-- Scroll Indicator -->
+        <div class="scroll-indicator">
+          <span>Scroll to learn more</span>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </div>
+      </div>
+
+      <!-- Trust Signal -->
+      <footer class="trust-footer">
+        <p class="trust-text">
+          <svg class="lock-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+          </svg>
+          Your data is processed locally. No uploads stored.
+        </p>
+      </footer>
+    </section>
+
+    <!-- Section 2: Video Tutorial (Dark) -->
+    <section class="section tutorial-section">
+      <div class="tutorial-content">
+        <!-- How It Works -->
+        <div class="how-it-works">
+          <h3 class="section-title">How it works</h3>
+          <div class="steps">
+            <div class="step">
+              <span class="step-number">1</span>
+              <span class="step-text">Upload your CSV file</span>
+            </div>
+            <div class="step">
+              <span class="step-number">2</span>
+              <span class="step-text">We analyze your ratings</span>
+            </div>
+            <div class="step">
+              <span class="step-number">3</span>
+              <span class="step-text">Get personalized recommendations</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Video Tutorial -->
+        <div class="video-container">
+          <video class="tutorial-video" controls poster="video-poster.jpg">
+            <source src="videos/tutorial.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          <p class="video-caption">Watch: How to export your watch history</p>
+        </div>
+
+        <!-- Scroll Indicator -->
+        <div class="scroll-indicator scroll-indicator-dark">
+          <span>See example recommendations</span>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Example Recommendations (Dark) -->
+    <section class="section examples-section">
+      <div class="examples-content">
+        <h3 class="section-title">Example Recommendations</h3>
+        <div class="cards-container">
+          <!-- Card 1: Dark Knight -->
+          <div class="card-wrapper" data-title="The Dark Knight" data-director="Christopher Nolan" data-year="2008">
+            <div class="product-card">
+              <div class="card-image">
+                <img src="images/dark-knight.jpg" alt="The Dark Knight poster">
+              </div>
+              <div class="card-body">
+                <p class="card-title">Title: Dark Knight (2008)</p>
+                <p class="card-subtitle">Director: Christopher Nolan</p>
+              </div>
+            </div>
+            <div class="card-action">
+              <button class="icon-btn favorite-btn" aria-label="Add to favorites">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- Card 2: Interstellar -->
+          <div class="card-wrapper" data-title="Interstellar" data-director="Christopher Nolan" data-year="2014">
+            <div class="product-card">
+              <div class="card-image">
+                <img src="images/interstellar.jpg" alt="Interstellar poster">
+              </div>
+              <div class="card-body">
+                <p class="card-title">Title: Interstellar (2014)</p>
+                <p class="card-subtitle">Director: Christopher Nolan</p>
+              </div>
+            </div>
+            <div class="card-action">
+              <button class="icon-btn favorite-btn" aria-label="Add to favorites">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- Card 3: Oppenheimer -->
+          <div class="card-wrapper" data-title="Oppenheimer" data-director="Christopher Nolan" data-year="2023">
+            <div class="product-card">
+              <div class="card-image">
+                <img src="images/oppenheimer.jpg" alt="Oppenheimer poster">
+              </div>
+              <div class="card-body">
+                <p class="card-title">Title: Oppenheimer (2023)</p>
+                <p class="card-subtitle">Director: Christopher Nolan</p>
+              </div>
+            </div>
+            <div class="card-action">
+              <button class="icon-btn favorite-btn" aria-label="Add to favorites">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Back to top link -->
+        <div class="back-to-top">
+          <button class="text-btn" id="backToTop">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="18 15 12 9 6 15"></polyline>
+            </svg>
+            <span>Back to top</span>
+          </button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Star Glow Animation Overlay -->
+  <div class="star-animation-overlay" id="starAnimation">
+    <div class="star-glow">
+      <svg width="60" height="60" viewBox="0 0 24 24" fill="#FFD700" stroke="#FFD700" stroke-width="1">
+        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+      </svg>
     </div>
   </div>
 
-  <script>
-    // Drag & drop functionality
-    const dropArea = document.getElementById('drop-area');
-
-    // Highlight when dragging (cosmetic only)
-    dropArea.addEventListener('dragover', (e) => {
-      e.preventDefault();
-      dropArea.classList.add('hover');
-    });
-
-    dropArea.addEventListener('dragleave', () => {
-      dropArea.classList.remove('hover');
-    });
-
-    // Handle file selection / drop
-    dropArea.addEventListener('drop', (e) => {
-      e.preventDefault();
-      dropArea.classList.remove('hover');
-
-      const file = e.dataTransfer.files[0];
-      if (!file) return;
-
-      if (file.type !== "text/csv" && !file.name.endsWith(".csv")) {
-        alert("Please drop a valid CSV file!");
-        return;
-      }
-
-      const formData = new FormData();
-      formData.append("file", file);
-
-      fetch("http://127.0.0.1:5000/upload", {
-        method: "POST",
-        body: formData
-      })
-      .then(response => response.json())
-      .then(data => {
-        console.log(data);
-        if (data.error) {
-          alert(data.error);
-          return;
-        }
-        alert(`Server Response: ${data.message}, Rows: ${data.rows}`);
-      })
-      .catch(error => {
-        console.error("Error:", error);
-        alert("Failed to upload CSV.");
-      });
-    });
-
-    // Optional: allow click to open file browser
-    dropArea.addEventListener('click', () => {
-      const fileInput = document.createElement('input');
-      fileInput.type = 'file';
-      fileInput.accept = '.csv';
-      fileInput.onchange = (e) => {
-        const file = e.target.files[0];
-        if (!file) return;
-
-        const formData = new FormData();
-        formData.append("file", file);
-
-        fetch("http://127.0.0.1:5000/upload", {
-          method: "POST",
-          body: formData
-        })
-        .then(response => response.json())
-        .then(data => {
-          console.log(data);
-          if (data.error) {
-            alert(data.error);
-            return;
-          }
-          // atp a sucess
-          alert(`Server Response: ${data.message}, Rows: ${data.rows}`);
-        })
-        .catch(error => {
-          console.error("Error:", error);
-          alert("Failed to upload CSV.");
-        });
-      };
-      fileInput.click();
-    });
-  </script>
-
+  <script src="script.js"></script>
 </body>
 </html>
+
