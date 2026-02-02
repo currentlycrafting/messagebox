@@ -1,25 +1,105 @@
-body {
-  font-family: Arial, sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 50px;
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-#drop-area {
-  width: 400px;
-  height: 200px;
-  border: 3px dashed #0078D7;
-  border-radius: 10px;
+body {
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #0078D7;
-  font-size: 18px;
-  text-align: center;
-  transition: background-color 0.2s;
+  background: #FFFFFF;
+  font-family: 'Inter', sans-serif;
 }
 
-#drop-area.hover {
-  background-color: #f0f8ff;
+/* Hero Actions Container */
+.hero-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 24px;
+  gap: 24px;
+  width: 100%;
+  max-width: 100%;
 }
+
+/* Text Content */
+.text-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Logo */
+.logo {
+  width: 64px;
+  height: 64px;
+  margin-bottom: -5px;
+}
+
+.title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 120%;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #1E1E1E;
+  margin: 0;
+}
+
+.subtitle {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  text-align: center;
+  color: #757575;
+  margin: 0;
+}
+
+.subtitle .accent {
+  color: #1B5E20;
+  font-weight: 700;
+}
+
+/* Button Group / File Upload */
+.button-group {
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  gap: 8px;
+  width: 240px;
+  height: 40px;
+  background: #1E1E1E;
+  border: 1px solid #2C2C2C;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.button-group:hover {
+  background: #1B5E20;
+  border-color: #1B5E20;
+  color: #FFFFFF;
+}
+
+/* Drag-over effect */
+.button-group.drag-over {
+  background: #1B5E20; /* same as hover green */
+  border-color: #145214; /* slightly darker green for contrast */
+  box-shadow: 0 0 0 3px rgba(27, 94, 32, 0.2); /* subtle shadow */
+  color: #FFFFFF;
+}
+
