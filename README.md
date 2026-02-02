@@ -6,13 +6,13 @@ By analyzing the movies you’ve already watched, the platform generates recomme
 
 🚀 How It Works
 
-Export your Letterboxd data
-Download your data from Letterboxd and locate the watched.csv file.
+-> Export your Letterboxd data
+-> Download your data from Letterboxd and locate the watched.csv file.
 
-Upload your watch history
-Upload the watched.csv file to the website.
+-> Upload your watch history
+-> Upload the watched.csv file to the website.
 
-Get recommendations
+
 The platform analyzes your viewing history using the Gemini 3 API and returns 3 personalized movie recommendations.
 
 ✨ Features
@@ -31,41 +31,17 @@ Privacy-focused (no data storage)
 
 Frontend: TBD
 
-Backend: TBD
+Backend: Flask, python
 
 AI: Gemini 3 API
 
 Data Input: Letterboxd watched.csv
 
-📂 Data Requirements
 
-This project requires the watched.csv file from Letterboxd’s official data export.
-
-Only watched.csv is used. Other files in the export are ignored.
+Only watched.csv is used. Other files in the export are ignored(TBD for better scoring)
 
 ⚙️ Setup & Installation
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
 npm run dev
-
-
-Create a .env file in the root directory and add your API key:
-
-GEMINI_API_KEY=your_api_key_here
-
-🧪 Usage
-
-Run the application locally or visit the deployed site
-
-Upload your watched.csv file
-
-Receive 3 AI-generated movie recommendations
-
-🔒 Privacy
-
-Uploaded data is used only during the session
-
-No data is stored or shared
-
-No direct connection to your Letterboxd account
