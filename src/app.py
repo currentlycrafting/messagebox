@@ -28,26 +28,52 @@ def upload_file():
         # Read file content as text
         stream = io.StringIO(file.stream.read().decode("UTF8"), newline=None)
         csv_reader = csv.DictReader(stream)
-        
+        return parse_csv(csv_reader)
+        # # Parse CSV data
+        # parsed_data = []
+        # for row in csv_reader:
+        #     parsed_data.append({
+        #         'date': row.get('Date', ''),
+        #         'name': row.get('Name', ''),
+        #         'year': row.get('Year', ''),
+        #         'letterboxd_uri': row.get('Letterboxd URI', '')
+        #     })
+
+            
+        # # Return success response with parsed data
+        # return jsonify({
+        #     'message': 'CSV uploaded and parsed successfully',
+        #     'rows': len(parsed_data),
+        #     'data': parsed_data
+        # }), 200
+    
+    except Exception as e:
+        return jsonify({'error': f'Failed to parse CSV: {str(e)}'}), 500
+
+def parse_csv(raw_file):
+    rows = list(raw_file)
+    if not rows:
+        return jsonify(
+            {
+                'error':"NO DATA IN CSV"
+            }
+        ), 400
+
         # Parse CSV data
-        parsed_data = []
-        for row in csv_reader:
-            parsed_data.append({
-                'date': row.get('Date', ''),
-                'name': row.get('Name', ''),
-                'year': row.get('Year', ''),
-                'letterboxd_uri': row.get('Letterboxd URI', '')
-            })
-        
-        # Return success response with parsed data
-        return jsonify({
+    parsed_data = []
+    for row in rows:
+        parsed_data.append({
+            'date': row.get('Date', ''),
+            'name': row.get('Name', ''),
+            'year': row.get('Year', ''),
+            'letterboxd_uri': row.get('Letterboxd URI', '')
+        })
+    
+    return jsonify({
             'message': 'CSV uploaded and parsed successfully',
             'rows': len(parsed_data),
             'data': parsed_data
         }), 200
-    
-    except Exception as e:
-        return jsonify({'error': f'Failed to parse CSV: {str(e)}'}), 500
 
 
 @app.route('/', methods=['GET'])

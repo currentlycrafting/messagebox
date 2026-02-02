@@ -49,8 +49,22 @@
 
       // Error Handling catching
       .then(response => response.json())
-      .then(data => { console.log(data); alert(`Server Response: ${data.message}, Rows: ${data.rows}`);})
-      .catch(error => { console.error("Error:", error); alert("Failed to upload CSV."); });
+      .then(data => 
+      { 
+        console.log(data);
+        if (data.error)
+        {
+          alert(data.error);
+          return
+        } 
+        // atp is a success 
+        alert(`Server Response: ${data.message}, Rows: ${data.rows}`);}
+      )
+
+      .catch(error => { 
+        console.error("Error:", error); 
+        alert("Failed to upload CSV."); }
+        );
     });
   </script>
 
