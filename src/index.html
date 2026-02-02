@@ -3,29 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CSV Drag & Drop</title>
+  <title>messagebox</title>
+  <link rel="icon" href="logo.svg" type="image/svg">
   <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
-  <div id="drop-area">Drag & drop your CSV file here</div>
+  <div class="hero-actions">
+    <div class="text-content">
+      <img src="logo.svg" alt="Messagebox logo" class="logo">
+      <h1 class="title">messagebox</h1>
+      <p class="subtitle">personal recommendation: <span class="accent">confirmed</span></p>
+    </div>
+
+    <!-- File upload / drag & drop area -->
+    <div class="button-group file-upload" id="drop-area">
+      <span class="file-upload-text">click here or drag CSV file</span>
+    </div>
+  </div>
 
   <script>
-    // JavaScript to handle drag & drop and send CSV to backend
+    // Drag & drop functionality
     const dropArea = document.getElementById('drop-area');
 
-    // Highlight when dragging (costmetic only)
+    // Highlight when dragging (cosmetic only)
     dropArea.addEventListener('dragover', (e) => {
       e.preventDefault();
       dropArea.classList.add('hover');
     });
 
-    // Remove highlight when not dragging
     dropArea.addEventListener('dragleave', () => {
       dropArea.classList.remove('hover');
     });
 
-    // Handle dropped files
+    // Handle file selection / drop
     dropArea.addEventListener('drop', (e) => {
       e.preventDefault();
       dropArea.classList.remove('hover');
@@ -38,7 +52,6 @@
         return;
       }
 
-      // Send CSV to Python backend
       const formData = new FormData();
       formData.append("file", file);
 
@@ -46,25 +59,53 @@
         method: "POST",
         body: formData
       })
-
-      // Error Handling catching
       .then(response => response.json())
-      .then(data => 
-      { 
+      .then(data => {
         console.log(data);
-        if (data.error)
-        {
+        if (data.error) {
           alert(data.error);
-          return
-        } 
-        // atp is a success 
-        alert(`Server Response: ${data.message}, Rows: ${data.rows}`);}
-      )
+          return;
+        }
+        alert(`Server Response: ${data.message}, Rows: ${data.rows}`);
+      })
+      .catch(error => {
+        console.error("Error:", error);
+        alert("Failed to upload CSV.");
+      });
+    });
 
-      .catch(error => { 
-        console.error("Error:", error); 
-        alert("Failed to upload CSV."); }
-        );
+    // Optional: allow click to open file browser
+    dropArea.addEventListener('click', () => {
+      const fileInput = document.createElement('input');
+      fileInput.type = 'file';
+      fileInput.accept = '.csv';
+      fileInput.onchange = (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        const formData = new FormData();
+        formData.append("file", file);
+
+        fetch("http://127.0.0.1:5000/upload", {
+          method: "POST",
+          body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+          console.log(data);
+          if (data.error) {
+            alert(data.error);
+            return;
+          }
+          // atp a sucess
+          alert(`Server Response: ${data.message}, Rows: ${data.rows}`);
+        })
+        .catch(error => {
+          console.error("Error:", error);
+          alert("Failed to upload CSV.");
+        });
+      };
+      fileInput.click();
     });
   </script>
 
