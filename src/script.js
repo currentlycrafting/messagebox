@@ -79,15 +79,12 @@ function handleFile(file) {
   })
   .then(data => {
     console.log(data);
-    const hasRecommendations = data.recommendations && data.recommendations.length > 0;
-    if (hasRecommendations) {
-      setStatus(`✅ Recommendations ready! Found ${data.rows} movies.`, "success");
-      setTimeout(() => {
-        window.location.href = 'recommend.html';
-      }, 1000);
-    } else {
-      setStatus("❌ Could not get recommendations. Check your CSV (use Name/Movie and Year columns) and try again.", "error");
-    }
+    setStatus(`✅ Recommendations ready! Found ${data.rows} movies.`, "success");
+    
+    // Redirect to recommendations page after short delay
+    setTimeout(() => {
+      window.location.href = 'recommend.html';
+    }, 1500);
   })
   .catch(error => {
     console.error("Error:", error);
@@ -133,7 +130,7 @@ document.addEventListener('keydown', (e) => {
 const starAnimation = document.getElementById('starAnimation');
 const cardWrappers = document.querySelectorAll('.card-wrapper');
 
-// Play star + glow animation
+// Play star burst animation
 function playStarAnimation(element) {
   if (!starAnimation) return;
   
@@ -145,6 +142,12 @@ function playStarAnimation(element) {
   // Position animation at element center
   starAnimation.style.left = `${centerX}px`;
   starAnimation.style.top = `${centerY}px`;
+  
+  // Remove active class first to reset animation
+  starAnimation.classList.remove('active');
+  
+  // Force reflow to restart animation
+  void starAnimation.offsetWidth;
   
   // Show and animate
   starAnimation.classList.add('active');
@@ -161,7 +164,7 @@ function playStarAnimation(element) {
     if (cardWrapper) {
       cardWrapper.classList.remove('card-clicked');
     }
-  }, 800);
+  }, 1000);
 }
 
 // Send click data to Flask backend
@@ -204,10 +207,16 @@ cardWrappers.forEach(wrapper => {
   const productCard = wrapper.querySelector('.product-card');
   const favoriteBtn = wrapper.querySelector('.favorite-btn');
   
-  // Card click handler
+  // Card click handler - also toggles the star button
   if (productCard) {
     productCard.addEventListener('click', () => {
-      handleCardClick(wrapper);
+      if (favoriteBtn) {
+        // Only play animation if not already active
+        if (!favoriteBtn.classList.contains('active')) {
+          handleCardClick(wrapper);
+        }
+        favoriteBtn.classList.toggle('active');
+      }
     });
   }
   
@@ -215,7 +224,10 @@ cardWrappers.forEach(wrapper => {
   if (favoriteBtn) {
     favoriteBtn.addEventListener('click', (e) => {
       e.stopPropagation(); // Prevent triggering card click
-      handleCardClick(wrapper);
+      // Only play animation if not already active
+      if (!favoriteBtn.classList.contains('active')) {
+        handleCardClick(wrapper);
+      }
       favoriteBtn.classList.toggle('active');
     });
   }
@@ -268,3 +280,4 @@ if (coffeeBtn && snapContainer) {
   // Initial check
   updateCoffeeButtonStyle();
 }
+
