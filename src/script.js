@@ -1,101 +1,132 @@
-// JavaScript to handle drag & drop, file upload, and scroll snapping
-const dropArea = document.getElementById('fileUpload');
-const statusText = document.getElementById('statusText');
+// ==================== VIDEO BACKGROUND CONTROL ====================
+const videoBackground = document.getElementById('videoBackground');
+const heroVideo = document.getElementById('heroVideo');
+const heroSection = document.querySelector('.hero-section');
+const hoverHint = document.getElementById('hoverHint');
+let videoStarted = false;
+
+// YouTube Player API
+let player;
+
+// Load YouTube IFrame API
+const tag = document.createElement('script');
+tag.src = "https://www.youtube.com/iframe_api";
+const firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+// Called automatically when YouTube API is ready
+window.onYouTubeIframeAPIReady = function() {
+  player = new YT.Player('heroVideo', {
+    events: {
+      'onReady': onPlayerReady
+    }
+  });
+};
+
+function onPlayerReady(event) {
+  console.log('YouTube player ready');
+}
+
+// Start video on hover (toggle on - stays playing)
+heroSection.addEventListener('mouseenter', () => {
+  if (!videoStarted && player && player.playVideo) {
+    player.playVideo();
+    videoBackground.classList.add('playing');
+    videoStarted = true;
+    
+    if (hoverHint) {
+      hoverHint.classList.add('hidden');
+    }
+  }
+});
+
+// ==================== FILE UPLOAD ====================
+const dropArea = document.getElementById("fileUpload");
+const statusText = document.getElementById("statusText");
 const snapContainer = document.querySelector('.snap-container');
 
-// Helper function to update status
-function setStatus(message, type = '') {
+function setStatus(message, type = "") {
+  if (!statusText) return;
   statusText.textContent = message;
-  statusText.className = 'status-text';
+  statusText.className = "status-text";
   if (type) {
     statusText.classList.add(type);
   }
 }
 
-// Highlight when dragging (cosmetic only)
-dropArea.addEventListener('dragover', (e) => {
+dropArea.addEventListener("dragover", (e) => {
   e.preventDefault();
-  dropArea.classList.add('drag-over');
+  dropArea.classList.add("drag-over");
 });
 
-// Remove highlight when not dragging
-dropArea.addEventListener('dragleave', () => {
-  dropArea.classList.remove('drag-over');
+dropArea.addEventListener("dragleave", () => {
+  dropArea.classList.remove("drag-over");
 });
 
-// Handle dropped files
-dropArea.addEventListener('drop', (e) => {
+dropArea.addEventListener("drop", (e) => {
   e.preventDefault();
-  dropArea.classList.remove('drag-over');
-  handleFile(e.dataTransfer.files[0]);
+  dropArea.classList.remove("drag-over");
+  const file = e.dataTransfer.files[0];
+  if (file) {
+    handleFile(file);
+  }
 });
 
-// Handle click to open file picker
-dropArea.addEventListener('click', () => {
+dropArea.addEventListener("click", () => {
   const input = document.createElement('input');
   input.type = 'file';
   input.accept = '.csv';
   input.onchange = (e) => {
-    handleFile(e.target.files[0]);
+    const file = e.target.files[0];
+    if (file) {
+      handleFile(file);
+    }
   };
   input.click();
 });
 
-// Handle Enter key for accessibility
-dropArea.addEventListener('keydown', (e) => {
-  if (e.key === 'Enter' || e.key === ' ') {
-    e.preventDefault();
-    dropArea.click();
-  }
-});
-
-// Main file handling function
 function handleFile(file) {
-  if (!file) return;
-
-  // Validate CSV (checks both type and extension for browser compatibility)
   if (file.type !== "text/csv" && !file.name.endsWith(".csv")) {
-    setStatus("❌ Invalid file format. Please upload a CSV file.", "error");
+    setStatus("Invalid file format. Please upload a CSV file.", "error");
     return;
   }
 
-  // Show loading state
-  setStatus("⏳ Analyzing your movies...", "loading");
+  setStatus("Analyzing your movies...", "loading");
   dropArea.disabled = true;
 
-  // Send CSV to Python backend
-  const formData = new FormData();
-  formData.append("file", file);
+  setTimeout(() => {
+    const formData = new FormData();
+    formData.append("file", file);
 
-  fetch("http://127.0.0.1:5000/upload", {
-    method: "POST",
-    body: formData
-  })
-  .then(response => {
-    if (!response.ok) {
-      throw new Error('Server error');
-    }
-    return response.json();
-  })
-  .then(data => {
-    console.log(data);
-    setStatus(`✅ Recommendations ready! Found ${data.rows} movies.`, "success");
-    
-    // Redirect to recommendations page after short delay
-    setTimeout(() => {
-      window.location.href = 'recommend.html';
-    }, 1500);
-  })
-  .catch(error => {
-    console.error("Error:", error);
-    setStatus("❌ Failed to process file. Please try again.", "error");
-  })
-  .finally(() => {
-    dropArea.disabled = false;
-  });
+    fetch("http://127.0.0.1:5000/upload", {
+      method: "POST",
+      body: formData
+    })
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Server error');
+      }
+      return response.json();
+    })
+    .then(data => {
+      console.log(data);
+      setStatus(`Recommendations ready! Found ${data.rows} movies.`, "success");
+      
+      setTimeout(() => {
+        window.location.href = 'recommend.html';
+      }, 1500);
+    })
+    .catch(error => {
+      console.error("Error:", error);
+      setStatus("Failed to process file. Please try again.", "error");
+    })
+    .finally(() => {
+      dropArea.disabled = false;
+    });
+  }, 5000);
 }
 
-// Keyboard navigation for scroll snapping
+// ==================== KEYBOARD NAVIGATION ====================
 document.addEventListener('keydown', (e) => {
   const sections = document.querySelectorAll('.section');
   const currentScroll = snapContainer.scrollTop;
@@ -129,40 +160,53 @@ document.addEventListener('keydown', (e) => {
 // ==================== CARD CLICK HANDLING ====================
 const starAnimation = document.getElementById('starAnimation');
 const cardWrappers = document.querySelectorAll('.card-wrapper');
+let currentAnimatingCard = null;
+let starAnimTimeoutId = null;
 
 // Play star burst animation
-function playStarAnimation(element) {
-  if (!starAnimation) return;
-  
-  // Get position of the element
-  const rect = element.getBoundingClientRect();
+// - Clicking the same card again during the animation does nothing
+// - Clicking a different card will play immediately (moves the overlay)
+function playStarAnimation(cardWrapper) {
+  if (!starAnimation || !cardWrapper) return;
+
+  // If this same card is already animating, don't restart/cut it off
+  if (currentAnimatingCard === cardWrapper && starAnimation.classList.contains('active')) {
+    return;
+  }
+
+  // If switching cards mid-animation, clean up the previous card state
+  if (currentAnimatingCard && currentAnimatingCard !== cardWrapper) {
+    currentAnimatingCard.classList.remove('card-clicked');
+  }
+
+  currentAnimatingCard = cardWrapper;
+
+  const rect = cardWrapper.getBoundingClientRect();
   const centerX = rect.left + rect.width / 2;
   const centerY = rect.top + rect.height / 2;
   
-  // Position animation at element center
   starAnimation.style.left = `${centerX}px`;
   starAnimation.style.top = `${centerY}px`;
-  
-  // Remove active class first to reset animation
-  starAnimation.classList.remove('active');
-  
-  // Force reflow to restart animation
-  void starAnimation.offsetWidth;
-  
-  // Show and animate
-  starAnimation.classList.add('active');
-  
-  // Add pulse effect to the card wrapper
-  const cardWrapper = element.closest('.card-wrapper');
-  if (cardWrapper) {
-    cardWrapper.classList.add('card-clicked');
+
+  // Restart overlay animation cleanly
+  if (starAnimTimeoutId) {
+    clearTimeout(starAnimTimeoutId);
+    starAnimTimeoutId = null;
   }
-  
-  // Remove animation classes after animation completes
-  setTimeout(() => {
-    starAnimation.classList.remove('active');
-    if (cardWrapper) {
+  starAnimation.classList.remove('active');
+  // force reflow so CSS animation restarts reliably
+  void starAnimation.offsetWidth;
+  starAnimation.classList.add('active');
+
+  cardWrapper.classList.add('card-clicked');
+
+  starAnimTimeoutId = setTimeout(() => {
+    // Only clear if we haven't switched to another card meanwhile
+    if (currentAnimatingCard === cardWrapper) {
+      starAnimation.classList.remove('active');
       cardWrapper.classList.remove('card-clicked');
+      currentAnimatingCard = null;
+      starAnimTimeoutId = null;
     }
   }, 1000);
 }
@@ -185,7 +229,7 @@ async function trackMovieClick(movie) {
   }
 }
 
-// Handle card click - play animation and track
+// Handle card click
 function handleCardClick(cardWrapper) {
   const movie = {
     title: cardWrapper.dataset.title || '',
@@ -193,10 +237,8 @@ function handleCardClick(cardWrapper) {
     year: cardWrapper.dataset.year || ''
   };
   
-  // Play animation
   playStarAnimation(cardWrapper);
   
-  // Track click in backend
   if (movie.title) {
     trackMovieClick(movie);
   }
@@ -207,11 +249,9 @@ cardWrappers.forEach(wrapper => {
   const productCard = wrapper.querySelector('.product-card');
   const favoriteBtn = wrapper.querySelector('.favorite-btn');
   
-  // Card click handler - also toggles the star button
   if (productCard) {
     productCard.addEventListener('click', () => {
       if (favoriteBtn) {
-        // Only play animation if not already active
         if (!favoriteBtn.classList.contains('active')) {
           handleCardClick(wrapper);
         }
@@ -220,11 +260,9 @@ cardWrappers.forEach(wrapper => {
     });
   }
   
-  // Star button click handler
   if (favoriteBtn) {
     favoriteBtn.addEventListener('click', (e) => {
-      e.stopPropagation(); // Prevent triggering card click
-      // Only play animation if not already active
+      e.stopPropagation();
       if (!favoriteBtn.classList.contains('active')) {
         handleCardClick(wrapper);
       }
@@ -233,7 +271,60 @@ cardWrappers.forEach(wrapper => {
   }
 });
 
-// Scroll indicators - click to scroll to next section
+// ==================== CAROUSEL FUNCTIONALITY ====================
+const cardsContainer = document.querySelector('.cards-container');
+const carouselPrev = document.querySelector('.carousel-prev');
+const carouselNext = document.querySelector('.carousel-next');
+const carouselDots = document.querySelectorAll('.carousel-dot');
+let currentCardIndex = 0;
+const totalCards = cardWrappers.length;
+
+function updateCarousel() {
+  // Move all cards
+  cardWrappers.forEach((card, index) => {
+    card.style.transform = `translateX(-${currentCardIndex * 100}%)`;
+  });
+  
+  // Update dots
+  carouselDots.forEach((dot, index) => {
+    dot.classList.toggle('active', index === currentCardIndex);
+  });
+  
+  // Update arrow states
+  if (carouselPrev) {
+    carouselPrev.disabled = currentCardIndex === 0;
+  }
+  if (carouselNext) {
+    carouselNext.disabled = currentCardIndex === totalCards - 1;
+  }
+}
+
+if (carouselPrev) {
+  carouselPrev.addEventListener('click', () => {
+    if (currentCardIndex > 0) {
+      currentCardIndex--;
+      updateCarousel();
+    }
+  });
+}
+
+if (carouselNext) {
+  carouselNext.addEventListener('click', () => {
+    if (currentCardIndex < totalCards - 1) {
+      currentCardIndex++;
+      updateCarousel();
+    }
+  });
+}
+
+carouselDots.forEach((dot, index) => {
+  dot.addEventListener('click', () => {
+    currentCardIndex = index;
+    updateCarousel();
+  });
+});
+
+// ==================== SCROLL INDICATORS ====================
 const scrollIndicators = document.querySelectorAll('.scroll-indicator');
 scrollIndicators.forEach((indicator, index) => {
   indicator.addEventListener('click', () => {
@@ -246,7 +337,7 @@ scrollIndicators.forEach((indicator, index) => {
   indicator.style.cursor = 'pointer';
 });
 
-// Back to top button
+// ==================== BACK TO TOP ====================
 const backToTop = document.getElementById('backToTop');
 if (backToTop) {
   backToTop.addEventListener('click', () => {
@@ -255,29 +346,5 @@ if (backToTop) {
       behavior: 'smooth'
     });
   });
-}
-
-// Coffee button style based on current section
-const coffeeBtn = document.querySelector('.coffee-btn-fixed');
-if (coffeeBtn && snapContainer) {
-  // Update coffee button style based on scroll position
-  function updateCoffeeButtonStyle() {
-    const scrollTop = snapContainer.scrollTop;
-    const sectionHeight = window.innerHeight;
-    const currentSection = Math.round(scrollTop / sectionHeight);
-    
-    // First section (hero) = light button, other sections = dark button
-    if (currentSection === 0) {
-      coffeeBtn.classList.remove('dark-section');
-    } else {
-      coffeeBtn.classList.add('dark-section');
-    }
-  }
-  
-  // Listen for scroll events
-  snapContainer.addEventListener('scroll', updateCoffeeButtonStyle);
-  
-  // Initial check
-  updateCoffeeButtonStyle();
 }
 
