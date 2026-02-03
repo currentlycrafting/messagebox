@@ -27,31 +27,37 @@ if (darkModeToggle) {
 }
 
 // ==================== MOVIE CARDS ====================
+// ==================== MOVIE CARDS ====================
 const cardsContainer = document.getElementById('cardsContainer');
 const starAnimation = document.getElementById('starAnimation');
 
-// Fetch movies from Gemini recommendations endpoint (from parse_csv), fallback to /api/movies
+// Fetch movies from API and render cards (using second version logic)
 async function loadMovies() {
   try {
-    // Fetch from /api/recommendations (Gemini results from parse_csv), not /api/movies
-    const response = await fetch('http://127.0.0.1:5000/api/recommendations');
+    // Fetch from general movies API
+    const response = await fetch('http://127.0.0.1:5000/api/movies');
     const data = await response.json();
 
     if (data.movies && data.movies.length > 0) {
       renderMovieCards(data.movies);
     } else {
-      // No Gemini recommendations yet; fallback to sample movies
-      const fallback = await fetch('http://127.0.0.1:5000/api/movies');
-      const fallbackData = await fallback.json();
-      if (fallbackData.movies && fallbackData.movies.length > 0) {
-        renderMovieCards(fallbackData.movies);
-      } else {
-        cardsContainer.innerHTML = '<p class="error-text">No recommendations found. Upload a CSV to get recommendations.</p>';
-      }
+      // No movies returned; show hardcoded fallback
+      const fallbackMovies = [
+        { title: "The Dark Knight", director: "Christopher Nolan", year: "2008", image: "images/dark-knight.jpg" },
+        { title: "Interstellar", director: "Christopher Nolan", year: "2014", image: "images/interstellar.jpg" },
+        { title: "Oppenheimer", director: "Christopher Nolan", year: "2023", image: "images/oppenheimer.jpg" }
+      ];
+      renderMovieCards(fallbackMovies);
     }
   } catch (error) {
     console.error('Error loading movies:', error);
-    cardsContainer.innerHTML = '<p class="error-text">Could not load recommendations. Make sure the server is running.</p>';
+    // Fetch failed; show hardcoded fallback
+    const fallbackMovies = [
+      { title: "The Dark Knight", director: "Christopher Nolan", year: "2008", image: "images/dark-knight.jpg" },
+      { title: "Interstellar", director: "Christopher Nolan", year: "2014", image: "images/interstellar.jpg" },
+      { title: "Oppenheimer", director: "Christopher Nolan", year: "2023", image: "images/oppenheimer.jpg" }
+    ];
+    renderMovieCards(fallbackMovies);
   }
 }
 
@@ -98,15 +104,22 @@ function renderMovieCards(movies) {
     const productCard = cardWrapper.querySelector('.product-card');
     const favoriteBtn = cardWrapper.querySelector('.favorite-btn');
     
-    // Card click handler
+    // Card click handler - also toggles the star button
     productCard.addEventListener('click', () => {
-      handleCardClick(movie, cardWrapper);
+      // Only play animation if not already active
+      if (!favoriteBtn.classList.contains('active')) {
+        handleCardClick(movie, cardWrapper);
+      }
+      favoriteBtn.classList.toggle('active');
     });
     
     // Star button click handler
     favoriteBtn.addEventListener('click', (e) => {
       e.stopPropagation(); // Prevent triggering card click
-      handleCardClick(movie, cardWrapper);
+      // Only play animation if not already active
+      if (!favoriteBtn.classList.contains('active')) {
+        handleCardClick(movie, cardWrapper);
+      }
       favoriteBtn.classList.toggle('active');
     });
   });
@@ -114,14 +127,14 @@ function renderMovieCards(movies) {
 
 // Handle card/star click - play animation and track
 function handleCardClick(movie, cardWrapper) {
-  // Play star glow animation
+  // Play star burst animation
   playStarAnimation(cardWrapper);
   
   // Track click in backend
   trackMovieClick(movie);
 }
 
-// Play star + glow animation
+// Play star burst animation
 function playStarAnimation(cardWrapper) {
   // Get position of the card
   const rect = cardWrapper.getBoundingClientRect();
@@ -131,6 +144,12 @@ function playStarAnimation(cardWrapper) {
   // Position animation at card center
   starAnimation.style.left = `${centerX}px`;
   starAnimation.style.top = `${centerY}px`;
+  
+  // Remove active class first to reset animation
+  starAnimation.classList.remove('active');
+  
+  // Force reflow to restart animation
+  void starAnimation.offsetWidth;
   
   // Show and animate
   starAnimation.classList.add('active');
@@ -142,7 +161,7 @@ function playStarAnimation(cardWrapper) {
   setTimeout(() => {
     starAnimation.classList.remove('active');
     cardWrapper.classList.remove('card-clicked');
-  }, 800);
+  }, 1000);
 }
 
 // Send click data to Flask backend
@@ -171,3 +190,4 @@ async function trackMovieClick(movie) {
 document.addEventListener('DOMContentLoaded', () => {
   loadMovies();
 });
+
