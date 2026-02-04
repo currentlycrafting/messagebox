@@ -1,6 +1,12 @@
 // ==================== MOVIE CARD HANDLING ====================
 const cardsContainer = document.getElementById('cardsContainer');
 const starAnimation = document.getElementById('starAnimation');
+const carouselNav = document.querySelector('.carousel-nav');
+const carouselPrev = document.querySelector('.carousel-prev');
+const carouselNext = document.querySelector('.carousel-next');
+const carouselDotsWrap = document.querySelector('.carousel-dots');
+let currentCardIndex = 0;
+let cardWrappers = [];
 
 // Sample movies for fallback
 const sample_movies = [
@@ -25,6 +31,7 @@ async function loadMovies() {
 // Render movie cards dynamically
 function renderMovieCards(movies) {
   cardsContainer.innerHTML = '';
+  currentCardIndex = 0;
   
   movies.forEach(movie => {
     const cardWrapper = document.createElement('div');
@@ -75,6 +82,10 @@ function renderMovieCards(movies) {
       favoriteBtn.classList.toggle('active');
     });
   });
+
+  // Setup carousel (small aspect ratio)
+  cardWrappers = Array.from(cardsContainer.querySelectorAll('.card-wrapper'));
+  setupCarousel(cardWrappers.length);
 }
 
 let currentAnimatingCard = null;
@@ -159,3 +170,90 @@ async function trackMovieClick(movie) {
 document.addEventListener('DOMContentLoaded', () => {
   loadMovies();
 });
+
+function isSmallScreenCarousel() {
+  return window.matchMedia('(max-width: 768px)').matches;
+}
+
+function scrollToCard(index) {
+  if (!cardsContainer || !cardWrappers[index]) return;
+
+  if (!isSmallScreenCarousel()) return; // larger layouts show all cards
+
+  cardsContainer.scrollTo({
+    top: cardWrappers[index].offsetTop,
+    behavior: 'smooth'
+  });
+}
+
+function updateCarouselUI() {
+  if (!carouselDotsWrap) return;
+  const dots = Array.from(carouselDotsWrap.querySelectorAll('.carousel-dot'));
+  dots.forEach((dot, i) => dot.classList.toggle('active', i === currentCardIndex));
+  if (carouselPrev) carouselPrev.disabled = currentCardIndex === 0;
+  if (carouselNext) carouselNext.disabled = currentCardIndex === cardWrappers.length - 1;
+}
+
+function setupCarousel(total) {
+  if (!carouselDotsWrap || !carouselPrev || !carouselNext) return;
+
+  // build dots
+  carouselDotsWrap.innerHTML = '';
+  for (let i = 0; i < total; i++) {
+    const dot = document.createElement('button');
+    dot.className = `carousel-dot${i === 0 ? ' active' : ''}`;
+    dot.type = 'button';
+    dot.dataset.index = String(i);
+    dot.addEventListener('click', () => {
+      currentCardIndex = i;
+      scrollToCard(currentCardIndex);
+      updateCarouselUI();
+    });
+    carouselDotsWrap.appendChild(dot);
+  }
+
+  carouselPrev.onclick = () => {
+    if (currentCardIndex > 0) {
+      currentCardIndex--;
+      scrollToCard(currentCardIndex);
+      updateCarouselUI();
+    }
+  };
+
+  carouselNext.onclick = () => {
+    if (currentCardIndex < cardWrappers.length - 1) {
+      currentCardIndex++;
+      scrollToCard(currentCardIndex);
+      updateCarouselUI();
+    }
+  };
+
+  // Sync when user scrolls vertically (swipe)
+  let t = null;
+  cardsContainer.addEventListener('scroll', () => {
+    if (!isSmallScreenCarousel()) return;
+    window.clearTimeout(t);
+    t = window.setTimeout(() => {
+      const top = cardsContainer.scrollTop;
+      let best = 0;
+      let dist = Infinity;
+      cardWrappers.forEach((cw, idx) => {
+        const d = Math.abs(cw.offsetTop - top);
+        if (d < dist) { dist = d; best = idx; }
+      });
+      if (best !== currentCardIndex) {
+        currentCardIndex = best;
+        updateCarouselUI();
+      }
+    }, 80);
+  }, { passive: true });
+
+  window.addEventListener('resize', () => {
+    // keep centered layout on larger sizes
+    if (!isSmallScreenCarousel()) currentCardIndex = 0;
+    updateCarouselUI();
+  });
+
+  updateCarouselUI();
+}
+
