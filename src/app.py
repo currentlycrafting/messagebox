@@ -16,7 +16,8 @@ load_dotenv()
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
-app = Flask(__name__, template_folder='.', static_folder='.')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+app = Flask(__name__, template_folder='BASE_DIR', static_folder=BASE_DIR)
 CORS(app)  # Enable CORS for frontend requests
 
 # ==================== IN-MEMORY STORAGE ====================
