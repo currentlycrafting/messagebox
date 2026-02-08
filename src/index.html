@@ -3,9 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>messagebox - Movie Recommendations</title>
-  <link rel="icon" href="logo.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="style.css">
+  <title>Odyssey - Movie Recommendations</title>
+  <link rel="icon" href="logo.svg?v=7" type="image/svg+xml">
+  <link rel="icon" href="logo.png?v=7" type="image/png">
+  <link rel="shortcut icon" href="favicon.ico?v=7">
+  <link rel="stylesheet" href="shared.css?v=1">
+  <link rel="stylesheet" href="style.css?v=1">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
@@ -32,7 +35,7 @@
         <div class="video-overlay"></div>
         <iframe 
           id="heroVideo"
-          src="https://www.youtube.com/embed/atOgj_ZaO7M?enablejsapi=1&controls=0&showinfo=0&rel=0&loop=1&playlist=atOgj_ZaO7M&mute=1&modestbranding=1"
+          src="https://www.youtube.com/embed/HDcZjSi3vwA?enablejsapi=1&controls=0&showinfo=0&rel=0&loop=1&playlist=HDcZjSi3vwA&mute=1&modestbranding=1"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
@@ -59,6 +62,18 @@
               <line x1="12" y1="3" x2="12" y2="15"></line>
             </svg>
             <span>Upload CSV File</span>
+          </button>
+          <a class="upload-btn upload-btn-secondary" href="recommend.html" aria-label="Go to recommendations">
+            <svg class="upload-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2l3 7 7 .5-5.5 4.5 2 7-6.5-4-6.5 4 2-7L2 9.5 9 9z"></path>
+            </svg>
+            <span>View Recommendations</span>
+          </a>
+          <button class="upload-btn upload-btn-secondary super-toggle" id="modeToggle" type="button" aria-pressed="false" aria-label="Toggle Super Mode">
+            <svg class="upload-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M13 2L3 14h7l-1 8 12-16h-7l-1-4z"></path>
+            </svg>
+            <span>Super</span>
           </button>
           <p class="hover-hint" id="hoverHint">Hover anywhere to preview</p>
         </div>
@@ -92,10 +107,15 @@
       <div class="tutorial-content">
         <!-- Video Tutorial -->
         <div class="video-container">
-          <video class="tutorial-video" controls poster="video-poster.jpg">
-            <source src="videos/tutorial.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
+          <iframe
+            class="tutorial-video"
+            src="https://www.youtube-nocookie.com/embed/Xg2EDtlRbB4"
+            title="Tutorial video"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
         </div>
 
         <!-- Scroll Indicator -->
@@ -241,7 +261,6 @@
     </div>
   </div>
 
-  <script src="script.js"></script>
+  <script src="script.js?v=1"></script>
 </body>
 </html>
-

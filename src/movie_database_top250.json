@@ -1,0 +1,4906 @@
+[
+  {
+    "title": "Yôjinbô",
+    "year": "1961",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "actors": [
+      "Toshirô Mifune",
+      "Eijirô Tôno",
+      "Tatsuya Nakadai"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0055630/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "year": "1958",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "actors": [
+      "Tyrone Power",
+      "Marlene Dietrich",
+      "Charles Laughton"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0051201/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Whiplash",
+    "year": "2014",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "actors": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2582802/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Warrior",
+    "year": "2011",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "directors": [
+      "Gavin O&apos;Connor"
+    ],
+    "actors": [
+      "Tom Hardy",
+      "Nick Nolte",
+      "Joel Edgerton"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1291584/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "WALL·E",
+    "year": "2008",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "actors": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0910970/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Vertigo",
+    "year": "1958",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "actors": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0052357/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "V for Vendetta",
+    "year": "2006",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "James McTeigue"
+    ],
+    "actors": [
+      "Hugo Weaving",
+      "Natalie Portman",
+      "Rupert Graves"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0434409/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Up",
+    "year": "2009",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "actors": [
+      "Edward Asner",
+      "Jordan Nagai",
+      "John Ratzenberger"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1049413/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Unforgiven",
+    "year": "1992",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "directors": [
+      "Clint Eastwood"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0105695/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Tôkyô monogatari",
+    "year": "1972",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Yasujirô Ozu"
+    ],
+    "actors": [
+      "Chishû Ryû",
+      "Chieko Higashiyama",
+      "Sô Yamamura"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0046438/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Trainspotting",
+    "year": "1996",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Danny Boyle"
+    ],
+    "actors": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0117951/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Toy Story 3",
+    "year": "2010",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0435761/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Toy Story",
+    "year": "1995",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "John Lasseter"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0114709/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "actors": [
+      "Tom Cruise",
+      "Jennifer Connelly",
+      "Miles Teller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1745960/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Tonari no Totoro",
+    "year": "1990",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "actors": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0096283/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "year": "1963",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Robert Mulligan"
+    ],
+    "actors": [
+      "Gregory Peck",
+      "John Megna",
+      "Frank Overton"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0056592/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "To Be or Not to Be",
+    "year": "1942",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ],
+    "directors": [
+      "Ernst Lubitsch"
+    ],
+    "actors": [
+      "Carole Lombard",
+      "Jack Benny",
+      "Robert Stack"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0035446/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": "2017",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin McDonagh"
+    ],
+    "actors": [
+      "Frances McDormand",
+      "Woody Harrelson",
+      "Sam Rockwell"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5027774/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": "2008",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Paul Thomas Anderson"
+    ],
+    "actors": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Ciarán Hinds"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0469494/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0993846/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Wizard of Oz",
+    "year": "1939",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "directors": [
+      "Victor Fleming",
+      "George Cukor",
+      "Mervyn LeRoy"
+    ],
+    "actors": [
+      "Judy Garland",
+      "Frank Morgan",
+      "Ray Bolger"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0032138/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": "1995",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Bryan Singer"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0114814/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "The Truman Show",
+    "year": "1998",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Peter Weir"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120382/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "year": "1948",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "directors": [
+      "John Huston"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Walter Huston",
+      "Tim Holt"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0040897/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Third Man",
+    "year": "1949",
+    "genres": [
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Carol Reed"
+    ],
+    "actors": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Alida Valli"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0041959/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Thing",
+    "year": "1982",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "John Carpenter"
+    ],
+    "actors": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0084787/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Terminator",
+    "year": "1984",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0088247/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Sting",
+    "year": "1973",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "George Roy Hill"
+    ],
+    "actors": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0070735/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "The Sound of Music",
+    "year": "1965",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "directors": [
+      "Robert Wise"
+    ],
+    "actors": [
+      "Julie Andrews",
+      "Christopher Plummer",
+      "Eleanor Parker"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0059742/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": "1999",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "actors": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0167404/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": "1991",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Jonathan Demme"
+    ],
+    "actors": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Lawrence A. Bonney"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0102926/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "The Shining",
+    "year": "1980",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0081505/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Frank Darabont"
+    ],
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0111161/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 9.3
+  },
+  {
+    "title": "The Prestige",
+    "year": "2006",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0482571/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "The Pianist",
+    "year": "2003",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "directors": [
+      "Roman Polanski"
+    ],
+    "actors": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0253474/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "The Matrix",
+    "year": "1999",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0133093/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.7
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": "2002",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0167261/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.8
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "actors": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0167260/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 9.0
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120737/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "imdb_rating": 8.8
+  },
+  {
+    "title": "The Lion King",
+    "year": "1994",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "actors": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0110357/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "The Kid",
+    "year": "1921",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Edna Purviance",
+      "Jackie Coogan"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0012349/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "The Iron Giant",
+    "year": "1999",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Brad Bird"
+    ],
+    "actors": [
+      "Eli Marienthal",
+      "Harry Connick Jr.",
+      "Jennifer Aniston"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0129167/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Incredibles",
+    "year": "2004",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Brad Bird"
+    ],
+    "actors": [
+      "Craig T. Nelson",
+      "Samuel L. Jackson",
+      "Holly Hunter"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0317705/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+    "imdb_rating": 8.0
+  },
+  {
+    "title": "The Help",
+    "year": "2011",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Tate Taylor"
+    ],
+    "actors": [
+      "Viola Davis",
+      "Emma Stone",
+      "Octavia Spencer"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1454029/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Green Mile",
+    "year": "1999",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Frank Darabont"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120689/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "The Great Escape",
+    "year": "1963",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "John Sturges"
+    ],
+    "actors": [
+      "Steve McQueen",
+      "James Garner",
+      "Richard Attenborough"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0057115/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Great Dictator",
+    "year": "1941",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Jack Oakie"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0032553/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "year": "1940",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "John Ford"
+    ],
+    "actors": [
+      "Henry Fonda",
+      "Jane Darwell",
+      "John Carradine"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0032551/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": "2014",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Wes Anderson"
+    ],
+    "actors": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2278388/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Gold Rush",
+    "year": "1925",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Mack Swain",
+      "Tom Murray"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0015864/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": "1974",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0071562/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 9.0
+  },
+  {
+    "title": "The Godfather",
+    "year": "1972",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0068646/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 9.2
+  },
+  {
+    "title": "The General",
+    "year": "1927",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Clyde Bruckman",
+      "Buster Keaton"
+    ],
+    "actors": [
+      "Buster Keaton",
+      "Marion Mack",
+      "Glen Cavender"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0017925/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Father",
+    "year": "2021",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Florian Zeller"
+    ],
+    "actors": [
+      "Anthony Hopkins",
+      "Olivia Colman",
+      "Mark Gatiss"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt10272386/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Exorcist",
+    "year": "1973",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "William Friedkin"
+    ],
+    "actors": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0070047/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "year": "1980",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0080684/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.7
+  },
+  {
+    "title": "The Elephant Man",
+    "year": "1980",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "David Lynch"
+    ],
+    "actors": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0080678/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Departed",
+    "year": "2006",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0407887/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "The Deer Hunter",
+    "year": "1979",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Michael Cimino"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "John Cazale"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0077416/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": "2012",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1345836/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0468569/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "imdb_rating": 9.0
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "year": "1957",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "David Lean"
+    ],
+    "actors": [
+      "William Holden",
+      "Alec Guinness",
+      "Jack Hawkins"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0050212/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": "1998",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "actors": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0118715/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Best Years of Our Lives",
+    "year": "1947",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "directors": [
+      "William Wyler"
+    ],
+    "actors": [
+      "Myrna Loy",
+      "Dana Andrews",
+      "Fredric March"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0036868/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "The Apartment",
+    "year": "1960",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "actors": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0053604/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": "1991",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0103064/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Tengoku to jigoku",
+    "year": "1963",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "actors": [
+      "Toshirô Mifune",
+      "Yutaka Sada",
+      "Tatsuya Nakadai"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0057565/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Taxi Driver",
+    "year": "1976",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0075314/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Taare Zameen Par",
+    "year": "2007",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "directors": [
+      "Aamir Khan",
+      "Amole Gupte"
+    ],
+    "actors": [
+      "Darsheel Safary",
+      "Aamir Khan",
+      "Tisca Chopra"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0986264/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Sunset Blvd.",
+    "year": "1950",
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "actors": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0043014/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": "1983",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "directors": [
+      "Richard Marquand"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0086190/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Star Wars",
+    "year": "1977",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "directors": [
+      "George Lucas"
+    ],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0076759/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Stand by Me",
+    "year": "1986",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Rob Reiner"
+    ],
+    "actors": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0092005/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Spotlight",
+    "year": "2015",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Tom McCarthy"
+    ],
+    "actors": [
+      "Mark Ruffalo",
+      "Michael Keaton",
+      "Rachel McAdams"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1895587/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "directors": [
+      "Jon Watts"
+    ],
+    "actors": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt10872600/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "actors": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4633694/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Some Like It Hot",
+    "year": "1959",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "actors": [
+      "Marilyn Monroe",
+      "Tony Curtis",
+      "Jack Lemmon"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0053291/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Snatch",
+    "year": "2001",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "actors": [
+      "Jason Statham",
+      "Brad Pitt",
+      "Stephen Graham"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0208092/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Smultronstället",
+    "year": "1959",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Ingmar Bergman"
+    ],
+    "actors": [
+      "Victor Sjöström",
+      "Bibi Andersson",
+      "Ingrid Thulin"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0050986/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Singin&apos; in the Rain",
+    "year": "1952",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "directors": [
+      "Stanley Donen",
+      "Gene Kelly"
+    ],
+    "actors": [
+      "Gene Kelly",
+      "Donald O&apos;Connor",
+      "Debbie Reynolds"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0045152/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Shutter Island",
+    "year": "2010",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Emily Mortimer",
+      "Mark Ruffalo"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1130884/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Shichinin no samurai",
+    "year": "1956",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "actors": [
+      "Toshirô Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0047478/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Sherlock Jr.",
+    "year": "1924",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "directors": [
+      "Buster Keaton"
+    ],
+    "actors": [
+      "Buster Keaton",
+      "Kathryn McGuire",
+      "Joe Keaton"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0015324/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Seppuku",
+    "year": "1964",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Masaki Kobayashi"
+    ],
+    "actors": [
+      "Tatsuya Nakadai",
+      "Akira Ishihama",
+      "Shima Iwashita"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0056058/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Sen to Chihiro no kamikakushi",
+    "year": "2003",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "actors": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0245429/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Se7en",
+    "year": "1995",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "actors": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0114369/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Schindler&apos;s List",
+    "year": "1994",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0108052/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 9.0
+  },
+  {
+    "title": "Scarface",
+    "year": "1983",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Brian De Palma"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Steven Bauer"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0086250/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": "1998",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120815/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Salinui chueok",
+    "year": "2003",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Bong Joon Ho"
+    ],
+    "actors": [
+      "Song Kang-ho",
+      "Kim Sang-kyung",
+      "Roe-ha Kim"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0353969/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Rush",
+    "year": "2013",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "Ron Howard"
+    ],
+    "actors": [
+      "Daniel Brühl",
+      "Chris Hemsworth",
+      "Olivia Wilde"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1979320/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Room",
+    "year": "2016",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Lenny Abrahamson"
+    ],
+    "actors": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Sean Bridgers"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3170832/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Rocky",
+    "year": "1976",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "directors": [
+      "John G. Avildsen"
+    ],
+    "actors": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0075148/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": "1992",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "actors": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0105236/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": "2000",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Darren Aronofsky"
+    ],
+    "actors": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0180093/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Relatos salvajes",
+    "year": "2014",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Damián Szifron"
+    ],
+    "actors": [
+      "Darío Grandinetti",
+      "María Marull",
+      "Mónica Villa"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3011894/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Rebecca",
+    "year": "1940",
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Mystery"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "actors": [
+      "Laurence Olivier",
+      "Joan Fontaine",
+      "George Sanders"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0032976/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Rear Window",
+    "year": "1954",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "actors": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0047396/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Ratatouille",
+    "year": "2007",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "actors": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0382932/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Rashômon",
+    "year": "1951",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "actors": [
+      "Toshirô Mifune",
+      "Machiko Kyô",
+      "Masayuki Mori"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0042876/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Ran",
+    "year": "1985",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "actors": [
+      "Tatsuya Nakadai",
+      "Akira Terao",
+      "Jinpachi Nezu"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0089881/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": "1981",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0082971/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Raging Bull",
+    "year": "1980",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0081398/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "actors": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0110912/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.9
+  },
+  {
+    "title": "Psycho",
+    "year": "1960",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "actors": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0054215/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Prisoners",
+    "year": "2013",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "actors": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1392214/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Platoon",
+    "year": "1987",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Oliver Stone"
+    ],
+    "actors": [
+      "Charlie Sheen",
+      "Tom Berenger",
+      "Willem Dafoe"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0091763/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "directors": [
+      "Gore Verbinski"
+    ],
+    "actors": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0325980/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Persona",
+    "year": "1967",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Ingmar Bergman"
+    ],
+    "actors": [
+      "Bibi Andersson",
+      "Liv Ullmann",
+      "Margaretha Krook"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0060827/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Per qualche dollaro in più",
+    "year": "1967",
+    "genres": [
+      "Western"
+    ],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Gian Maria Volontè"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0059578/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Paths of Glory",
+    "year": "1957",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "actors": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0050825/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Pather Panchali",
+    "year": "1955",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Satyajit Ray"
+    ],
+    "actors": [
+      "Kanu Bannerjee",
+      "Karuna Bannerjee",
+      "Subir Banerjee"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0048473/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "One Flew Over the Cuckoo&apos;s Nest",
+    "year": "1975",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Milos Forman"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Michael Berryman"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0073486/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.7
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "year": "1984",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0087843/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "On the Waterfront",
+    "year": "1954",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Elia Kazan"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Karl Malden",
+      "Lee J. Cobb"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0047296/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Oldeuboi",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Park Chan-wook"
+    ],
+    "actors": [
+      "Choi Min-sik",
+      "Yoo Ji-tae",
+      "Kang Hye-jeong"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0364569/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Nuovo Cinema Paradiso",
+    "year": "1990",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Giuseppe Tornatore"
+    ],
+    "actors": [
+      "Philippe Noiret",
+      "Enzo Cannavale",
+      "Antonella Attili"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0095765/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "North by Northwest",
+    "year": "1959",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "actors": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0053125/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": "2007",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "actors": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0477348/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Network",
+    "year": "1976",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "actors": [
+      "Faye Dunaway",
+      "William Holden",
+      "Peter Finch"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0074958/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "year": "1939",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Frank Capra"
+    ],
+    "actors": [
+      "James Stewart",
+      "Jean Arthur",
+      "Claude Rains"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0031679/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": "1975",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "directors": [
+      "Terry Gilliam",
+      "Terry Jones"
+    ],
+    "actors": [
+      "Graham Chapman",
+      "John Cleese",
+      "Eric Idle"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0071853/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "actors": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0198781/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Mononoke-hime",
+    "year": "1997",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "actors": [
+      "Yôji Matsuda",
+      "Yuriko Ishida",
+      "Yûko Tanaka"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0119698/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Modern Times",
+    "year": "1936",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0027977/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": "2005",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "directors": [
+      "Clint Eastwood"
+    ],
+    "actors": [
+      "Hilary Swank",
+      "Clint Eastwood",
+      "Morgan Freeman"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0405159/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Metropolis",
+    "year": "1927",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Fritz Lang"
+    ],
+    "actors": [
+      "Brigitte Helm",
+      "Alfred Abel",
+      "Gustav Fröhlich"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0017136/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Memento",
+    "year": "2001",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0209144/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Mary and Max.",
+    "year": "2010",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Adam Elliot"
+    ],
+    "actors": [
+      "Toni Collette",
+      "Philip Seymour Hoffman",
+      "Eric Bana"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0978762/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": "2015",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "George Miller"
+    ],
+    "actors": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1392190/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "M - Eine Stadt sucht einen Mörder",
+    "year": "1931",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Fritz Lang"
+    ],
+    "actors": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0022100/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Léon",
+    "year": "1994",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Luc Besson"
+    ],
+    "actors": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0110413/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Logan",
+    "year": "2017",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "James Mangold"
+    ],
+    "actors": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Dafne Keen"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3315342/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": "1998",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "actors": [
+      "Jason Flemyng",
+      "Dexter Fletcher",
+      "Nick Moran"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120735/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Life of Brian",
+    "year": "1979",
+    "genres": [
+      "Comedy"
+    ],
+    "directors": [
+      "Terry Jones"
+    ],
+    "actors": [
+      "Graham Chapman",
+      "John Cleese",
+      "Michael Palin"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0079470/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.0
+  },
+  {
+    "title": "Les quatre cents coups",
+    "year": "1959",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "François Truffaut"
+    ],
+    "actors": [
+      "Jean-Pierre Léaud",
+      "Albert Rémy",
+      "Claire Maurier"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0053198/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Le salaire de la peur",
+    "year": "1955",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Henri-Georges Clouzot"
+    ],
+    "actors": [
+      "Yves Montand",
+      "Charles Vanel",
+      "Peter van Eyck"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0046268/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Le fabuleux destin d&apos;Amélie Poulain",
+    "year": "2002",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "directors": [
+      "Jean-Pierre Jeunet"
+    ],
+    "actors": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0211915/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "year": "1962",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "David Lean"
+    ],
+    "actors": [
+      "Peter O&apos;Toole",
+      "Alec Guinness",
+      "Anthony Quinn"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0056172/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Ladri di biciclette",
+    "year": "1949",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Vittorio De Sica"
+    ],
+    "actors": [
+      "Lamberto Maggiorani",
+      "Enzo Staiola",
+      "Lianella Carell"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0040522/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "La vita è bella",
+    "year": "1997",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Roberto Benigni"
+    ],
+    "actors": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0118799/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "La passion de Jeanne d&apos;Arc",
+    "year": "1928",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Carl Theodor Dreyer"
+    ],
+    "actors": [
+      "Maria Falconetti",
+      "Eugene Silvain",
+      "André Berley"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0019254/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "La haine",
+    "year": "1996",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Mathieu Kassovitz"
+    ],
+    "actors": [
+      "Vincent Cassel",
+      "Hubert Koundé",
+      "Saïd Taghmaoui"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0113247/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "La battaglia di Algeri",
+    "year": "1967",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Gillo Pontecorvo"
+    ],
+    "actors": [
+      "Brahim Hadjadj",
+      "Jean Martin",
+      "Yacef Saadi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0058946/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": "1997",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Curtis Hanson"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0119488/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Klaus",
+    "year": "2019",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Martínez López"
+    ],
+    "actors": [
+      "Jason Schwartzman",
+      "J.K. Simmons",
+      "Rashida Jones"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4729430/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Kimi no Na wa.",
+    "year": "2017",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "actors": [
+      "Ryûnosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ryô Narita"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5311514/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "actors": [
+      "Uma Thurman",
+      "David Carradine",
+      "Daryl Hannah"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0266697/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Jurassic Park",
+    "year": "1993",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0107290/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Judgment at Nuremberg",
+    "year": "1961",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Stanley Kramer"
+    ],
+    "actors": [
+      "Spencer Tracy",
+      "Burt Lancaster",
+      "Richard Widmark"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0055031/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Joker",
+    "year": "2019",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Todd Phillips"
+    ],
+    "actors": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt7286456/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Jodaeiye Nader az Simin",
+    "year": "2011",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Asghar Farhadi"
+    ],
+    "actors": [
+      "Payman Maadi",
+      "Leila Hatami",
+      "Sareh Bayat"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1832382/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Jaws",
+    "year": "1975",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0073195/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Jai Bhim",
+    "year": "2021",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "T.J. Gnanavel"
+    ],
+    "actors": [
+      "Suriya",
+      "Lijo Mol Jose",
+      "Manikandan K."
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt15097216/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
+    "imdb_rating": 8.9
+  },
+  {
+    "title": "Jagten",
+    "year": "2013",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Thomas Vinterberg"
+    ],
+    "actors": [
+      "Mads Mikkelsen",
+      "Thomas Bo Larsen",
+      "Annika Wedderkopp"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2106476/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "It&apos;s a Wonderful Life",
+    "year": "1947",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "directors": [
+      "Frank Capra"
+    ],
+    "actors": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0038650/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "It Happened One Night",
+    "year": "1934",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "directors": [
+      "Frank Capra"
+    ],
+    "actors": [
+      "Clark Gable",
+      "Claudette Colbert",
+      "Walter Connolly"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0025316/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Intouchables",
+    "year": "2011",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Olivier Nakache",
+      "Éric Toledano"
+    ],
+    "actors": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1675434/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Into the Wild",
+    "year": "2007",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "Sean Penn"
+    ],
+    "actors": [
+      "Emile Hirsch",
+      "Vince Vaughn",
+      "Catherine Keener"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0758758/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0816692/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Inside Out",
+    "year": "2015",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del Carmen"
+    ],
+    "actors": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2096673/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": "2009",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "actors": [
+      "Brad Pitt",
+      "Diane Kruger",
+      "Eli Roth"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0361748/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": "1989",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Sean Connery",
+      "Alison Doody"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0097576/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1375666/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "imdb_rating": 8.8
+  },
+  {
+    "title": "Incendies",
+    "year": "2011",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "actors": [
+      "Lubna Azabal",
+      "Mélissa Désormeaux-Poulin",
+      "Maxim Gaudette"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1255953/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "In the Name of the Father",
+    "year": "1994",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Jim Sheridan"
+    ],
+    "actors": [
+      "Daniel Day-Lewis",
+      "Pete Postlethwaite",
+      "Alison Crosbie"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0107207/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Il buono, il brutto, il cattivo",
+    "year": "1967",
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0060196/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.8
+  },
+  {
+    "title": "Ikiru",
+    "year": "1956",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "actors": [
+      "Takashi Shimura",
+      "Nobuo Kaneko",
+      "Shin&apos;ichi Himori"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0044741/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTcyYmQ2NDMtNWI1NS00MTNiLTk0NDctNWMwNWExYTNlYzk3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Idi i smotri",
+    "year": "1985",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "directors": [
+      "Elem Klimov"
+    ],
+    "actors": [
+      "Aleksey Kravchenko",
+      "Olga Mironova",
+      "Liubomiras Laucevicius"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0091251/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzU3OTI1MjItYTJiZC00NDI0LWFlNGYtOTQ1OTVhNDgwM2U3XkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "actors": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz-Plasse"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0892769/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Hotel Rwanda",
+    "year": "2005",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Terry George"
+    ],
+    "actors": [
+      "Don Cheadle",
+      "Sophie Okonedo",
+      "Joaquin Phoenix"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0395169/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Hotaru no haka",
+    "year": "1989",
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Isao Takahata"
+    ],
+    "actors": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0095327/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Heat",
+    "year": "1995",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Michael Mann"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0113277/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Hauru no ugoku shiro",
+    "year": "2005",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "actors": [
+      "Chieko Baishô",
+      "Takuya Kimura",
+      "Tatsuya Gashûin"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0347149/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows - Part 2",
+    "year": "2011",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "directors": [
+      "David Yates"
+    ],
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1201607/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Hamilton",
+    "year": "2020",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Thomas Kail"
+    ],
+    "actors": [
+      "Lin-Manuel Miranda",
+      "Phillipa Soo",
+      "Leslie Odom Jr."
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt8503618/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "year": "2016",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Mel Gibson"
+    ],
+    "actors": [
+      "Andrew Garfield",
+      "Sam Worthington",
+      "Luke Bracey"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2119532/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Hachi: A Dog&apos;s Tale",
+    "year": "2010",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "directors": [
+      "Lasse Hallström"
+    ],
+    "actors": [
+      "Richard Gere",
+      "Joan Allen",
+      "Cary-Hiroyuki Tagawa"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1028532/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Groundhog Day",
+    "year": "1993",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Harold Ramis"
+    ],
+    "actors": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0107048/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Green Book",
+    "year": "2018",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Peter Farrelly"
+    ],
+    "actors": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt6966692/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Gran Torino",
+    "year": "2009",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Clint Eastwood"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Bee Vang",
+      "Christopher Carley"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1205489/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Goodfellas",
+    "year": "1990",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0099685/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.7
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": "1998",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Gus Van Sant"
+    ],
+    "actors": [
+      "Robin Williams",
+      "Matt Damon",
+      "Ben Affleck"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0119217/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Gone with the Wind",
+    "year": "1940",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "directors": [
+      "Victor Fleming",
+      "George Cukor",
+      "Sam Wood"
+    ],
+    "actors": [
+      "Clark Gable",
+      "Vivien Leigh",
+      "Thomas Mitchell"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0031381/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Gone Girl",
+    "year": "2014",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "actors": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2267998/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Gladiator",
+    "year": "2000",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0172495/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Gisaengchung",
+    "year": "2019",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Bong Joon Ho"
+    ],
+    "actors": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt6751668/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Gandhi",
+    "year": "1983",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "Richard Attenborough"
+    ],
+    "actors": [
+      "Ben Kingsley",
+      "John Gielgud",
+      "Rohini Hattangadi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0083987/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGVmZGU2M2EtZTVjYy00OWU2LWI0YjEtZjQ4YjNmODhmMzhkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": "1987",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "actors": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D&apos;Onofrio"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0093058/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0109830/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.8
+  },
+  {
+    "title": "Ford v Ferrari",
+    "year": "2019",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "James Mangold"
+    ],
+    "actors": [
+      "Matt Damon",
+      "Christian Bale",
+      "Jon Bernthal"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1950186/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Finding Nemo",
+    "year": "2003",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "actors": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0266543/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Fight Club",
+    "year": "1999",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "David Fincher"
+    ],
+    "actors": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Meat Loaf"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0137523/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.8
+  },
+  {
+    "title": "Fargo",
+    "year": "1996",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "directors": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "actors": [
+      "William H. Macy",
+      "Frances McDormand",
+      "Steve Buscemi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0116282/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Dan Kwan",
+      "Daniel Scheinert"
+    ],
+    "actors": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Jamie Lee Curtis"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt6710474/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Michel Gondry"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Tom Wilkinson"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0338013/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "El secreto de sus ojos",
+    "year": "2010",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "directors": [
+      "Juan José Campanella"
+    ],
+    "actors": [
+      "Ricardo Darín",
+      "Soledad Villamil",
+      "Pablo Rago"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1305806/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "El laberinto del fauno",
+    "year": "2007",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "actors": [
+      "Ivana Baquero",
+      "Ariadna Gil",
+      "Sergi López"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0457430/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": "1964",
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "actors": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0057012/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Double Indemnity",
+    "year": "1944",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "directors": [
+      "Billy Wilder"
+    ],
+    "actors": [
+      "Fred MacMurray",
+      "Barbara Stanwyck",
+      "Edward G. Robinson"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0036775/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Django Unchained",
+    "year": "2012",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "actors": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1853728/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Die Hard",
+    "year": "1988",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "directors": [
+      "John McTiernan"
+    ],
+    "actors": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0095016/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Dial M for Murder",
+    "year": "1954",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "actors": [
+      "Ray Milland",
+      "Grace Kelly",
+      "Robert Cummings"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0046912/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Det sjunde inseglet",
+    "year": "1958",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "directors": [
+      "Ingmar Bergman"
+    ],
+    "actors": [
+      "Max von Sydow",
+      "Gunnar Björnstrand",
+      "Bengt Ekerot"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0050976/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Dersu Uzala",
+    "year": "1977",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "actors": [
+      "Maksim Munzuk",
+      "Yuriy Solomin",
+      "Mikhail Bychkov"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0071411/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Der Untergang",
+    "year": "2005",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Oliver Hirschbiegel"
+    ],
+    "actors": [
+      "Bruno Ganz",
+      "Alexandra Maria Lara",
+      "Ulrich Matthes"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0363163/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": "1989",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Peter Weir"
+    ],
+    "actors": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0097165/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Das Leben der Anderen",
+    "year": "2007",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "actors": [
+      "Ulrich Mühe",
+      "Martina Gedeck",
+      "Sebastian Koch"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0405094/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Das Boot",
+    "year": "1982",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Wolfgang Petersen"
+    ],
+    "actors": [
+      "Jürgen Prochnow",
+      "Herbert Grönemeyer",
+      "Klaus Wennemann"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0082096/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Dangal",
+    "year": "2016",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "Nitesh Tiwari"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Sakshi Tanwar",
+      "Fatima Sana Shaikh"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5074352/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Cool Hand Luke",
+    "year": "1967",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Stuart Rosenberg"
+    ],
+    "actors": [
+      "Paul Newman",
+      "George Kennedy",
+      "Strother Martin"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0061512/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Coco",
+    "year": "2017",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "actors": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2380307/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "City Lights",
+    "year": "1931",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "actors": [
+      "Charles Chaplin",
+      "Virginia Cherrill",
+      "Florence Lee"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0021749/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzE1NjdhYjAtNzU5NS00ZjhiLWE4YjUtOGVjMjEzZjJmMDdlXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Citizen Kane",
+    "year": "1941",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "directors": [
+      "Orson Welles"
+    ],
+    "actors": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0033467/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "Cidade de Deus",
+    "year": "2004",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Fernando Meirelles",
+      "Kátia Lund"
+    ],
+    "actors": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0317248/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.6
+  },
+  {
+    "title": "Chinatown",
+    "year": "1974",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Roman Polanski"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0071315/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": "2002",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0264464/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Casino",
+    "year": "1995",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0112641/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Casablanca",
+    "year": "1943",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0034583/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Capharnaüm",
+    "year": "2018",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Nadine Labaki"
+    ],
+    "actors": [
+      "Zain Al Rafeea",
+      "Yordanos Shiferaw",
+      "Boluwatife Treasure Bankole"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt8267604/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "C&apos;era una volta il West",
+    "year": "1969",
+    "genres": [
+      "Western"
+    ],
+    "directors": [
+      "Sergio Leone"
+    ],
+    "actors": [
+      "Henry Fonda",
+      "Charles Bronson",
+      "Claudia Cardinale"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0064116/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Braveheart",
+    "year": "1995",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Mel Gibson"
+    ],
+    "actors": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0112573/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Blade Runner",
+    "year": "1982",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0083658/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Ben-Hur",
+    "year": "1959",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "William Wyler"
+    ],
+    "actors": [
+      "Charlton Heston",
+      "Jack Hawkins",
+      "Stephen Boyd"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0052618/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Before Sunset",
+    "year": "2004",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Richard Linklater"
+    ],
+    "actors": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Vernon Dobtcheff"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0381681/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Before Sunrise",
+    "year": "1995",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "directors": [
+      "Richard Linklater"
+    ],
+    "actors": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Andrea Eckert"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0112471/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Batman Begins",
+    "year": "2005",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Michael Caine",
+      "Ken Watanabe"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0372784/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": "1975",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "actors": [
+      "Ryan O&apos;Neal",
+      "Marisa Berenson",
+      "Patrick Magee"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0072684/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "Back to the Future",
+    "year": "1985",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0088763/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Bacheha-Ye aseman",
+    "year": "1999",
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "directors": [
+      "Majid Majidi"
+    ],
+    "actors": [
+      "Mohammad Amir Naji",
+      "Amir Farrokh Hashemian",
+      "Bahare Seddiqi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0118849/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Babam ve Oglum",
+    "year": "2005",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "directors": [
+      "Çagan Irmak"
+    ],
+    "actors": [
+      "Çetin Tekindor",
+      "Fikret Kuskan",
+      "Hümeyra"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0476735/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": "2018",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4154756/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4154796/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": "1979",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "actors": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0078788/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Amores perros",
+    "year": "2001",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "directors": [
+      "Alejandro G. Iñárritu"
+    ],
+    "actors": [
+      "Emilio Echevarría",
+      "Gael García Bernal",
+      "Goya Toledo"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0245712/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "American History X",
+    "year": "1998",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Tony Kaye"
+    ],
+    "actors": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D&apos;Angelo"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120586/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "American Beauty",
+    "year": "1999",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Sam Mendes"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0169547/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Amadeus",
+    "year": "1984",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "directors": [
+      "Milos Forman"
+    ],
+    "actors": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0086879/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "All About Eve",
+    "year": "1950",
+    "genres": [
+      "Drama"
+    ],
+    "directors": [
+      "Joseph L. Mankiewicz"
+    ],
+    "actors": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0042192/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "Aliens",
+    "year": "1986",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "actors": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0090605/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "Alien",
+    "year": "1979",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Ridley Scott"
+    ],
+    "actors": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0078748/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "imdb_rating": 8.5
+  },
+  {
+    "title": "Aladdin",
+    "year": "1992",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "actors": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0103639/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+    "imdb_rating": 8.0
+  },
+  {
+    "title": "Ah-ga-ssi",
+    "year": "2016",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "directors": [
+      "Park Chan-wook"
+    ],
+    "actors": [
+      "Kim Min-hee",
+      "Ha Jung-woo",
+      "Cho Jin-woong"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4016934/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": "1972",
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "actors": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0066921/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": "2002",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "directors": [
+      "Ron Howard"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0268978/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "3 Idiots",
+    "year": "2009",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "directors": [
+      "Rajkumar Hirani"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Madhavan",
+      "Mona Singh"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1187043/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "imdb_rating": 8.4
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": "1970",
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "actors": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0062622/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imdb_rating": 8.3
+  },
+  {
+    "title": "1917",
+    "year": "2020",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "directors": [
+      "Sam Mendes"
+    ],
+    "actors": [
+      "Dean-Charles Chapman",
+      "George MacKay",
+      "Daniel Mays"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt8579674/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+    "imdb_rating": 8.2
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": "2013",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "directors": [
+      "Steve McQueen"
+    ],
+    "actors": [
+      "Chiwetel Ejiofor",
+      "Michael Kenneth Williams",
+      "Michael Fassbender"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2024544/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+    "imdb_rating": 8.1
+  },
+  {
+    "title": "12 Angry Men",
+    "year": "1957",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "actors": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0050083/",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "imdb_rating": 9.0
+  }
+]

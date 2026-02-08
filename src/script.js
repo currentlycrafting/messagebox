@@ -45,6 +45,37 @@ const dropArea = document.getElementById("fileUpload");
 const statusText = document.getElementById("statusText");
 const snapContainer = document.querySelector('.snap-container');
 
+// Use same-origin by default (works in Docker). If you serve the HTML from
+// a different dev server, set window.API_BASE in the page.
+const API_BASE = (typeof window !== 'undefined' && window.API_BASE) ? String(window.API_BASE) : '';
+
+// ==================== MODE TOGGLE (REGULAR / SUPER) ====================
+const MODE_KEY = 'odyssey.mode';
+const modeToggle = document.getElementById('modeToggle');
+
+function getMode() {
+  const raw = (typeof window !== 'undefined' && window.localStorage) ? window.localStorage.getItem(MODE_KEY) : null;
+  return (raw === 'super') ? 'super' : 'regular';
+}
+
+function setMode(mode) {
+  const next = (mode === 'super') ? 'super' : 'regular';
+  try { window.localStorage.setItem(MODE_KEY, next); } catch (e) {}
+  if (modeToggle) {
+    modeToggle.setAttribute('aria-pressed', next === 'super' ? 'true' : 'false');
+    modeToggle.title = next === 'super' ? 'Super Mode: ON' : 'Super Mode: OFF';
+  }
+}
+
+if (modeToggle) {
+  // initialize UI
+  setMode(getMode());
+  modeToggle.addEventListener('click', () => {
+    const current = getMode();
+    setMode(current === 'super' ? 'regular' : 'super');
+  });
+}
+
 function setStatus(message, type = "") {
   if (!statusText) return;
   statusText.textContent = message;
@@ -98,25 +129,17 @@ function handleFile(file) {
     const formData = new FormData();
     formData.append("file", file);
 
-    fetch("http://127.0.0.1:5000/upload", {
+    fetch(`${API_BASE}/upload`, {
       method: "POST",
       body: formData
     })
     .then(response => {
-      return response.json().then(data => ({
-        ok: response.ok,
-        status: response.status,
-        data: data
-      }));
-    })
-    .then(({ ok, status, data }) => {
-      if (!ok) {
-        const errorMsg = data.error || 'Server error';
-        if (errorMsg.includes("NO DATA IN CSV")) {
-          throw new Error('There\'s no data in this CSV file. Please use another file.');
-        }
-        throw new Error(errorMsg);
+      if (!response.ok) {
+        throw new Error('Server error');
       }
+      return response.json();
+    })
+    .then(data => {
       console.log(data);
       setStatus(`Recommendations ready! Found ${data.rows} movies.`, "success");
       
@@ -126,7 +149,7 @@ function handleFile(file) {
     })
     .catch(error => {
       console.error("Error:", error);
-      setStatus(error.message || "Failed to process file. Please try again.", "error");
+      setStatus("Failed to process file. Please try again.", "error");
     })
     .finally(() => {
       dropArea.disabled = false;
@@ -219,37 +242,12 @@ function playStarAnimation(cardWrapper) {
   }, 1000);
 }
 
-// Send click data to Flask backend
-async function trackMovieClick(movie) {
-  try {
-    const response = await fetch('http://127.0.0.1:5000/api/click', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify(movie)
-    });
-    
-    const data = await response.json();
-    console.log('Click tracked:', data);
-  } catch (error) {
-    console.error('Error tracking click:', error);
-  }
-}
-
 // Handle card click
 function handleCardClick(cardWrapper) {
-  const movie = {
-    title: cardWrapper.dataset.title || '',
-    director: cardWrapper.dataset.director || '',
-    year: cardWrapper.dataset.year || ''
-  };
-  
+  // Index page "Example Recommendations" are static placeholders.
+  // We intentionally do NOT call the backend click API from this page,
+  // because `/api/click` is reserved for replacing movies on the recommend page.
   playStarAnimation(cardWrapper);
-  
-  if (movie.title) {
-    trackMovieClick(movie);
-  }
 }
 
 // Add click handlers to all card wrappers
